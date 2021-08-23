@@ -1,4 +1,6 @@
-package orientacaoaobjetosjava;
+package orientacaoaobjetosjava.bancoExAlura;
+
+import orientacaoaobjetosjava.bancoExAlura.Cliente;
 
 public class Conta {
 

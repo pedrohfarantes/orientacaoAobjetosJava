@@ -1,4 +1,4 @@
-package orientacaoaobjetosjava;
+package orientacaoaobjetosjava.bancoExAlura;
 
 public class Cliente {
 

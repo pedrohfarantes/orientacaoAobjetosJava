@@ -1,4 +1,7 @@
-package orientacaoaobjetosjava;
+package orientacaoaobjetosjava.bancoExAlura;
+
+import orientacaoaobjetosjava.bancoExAlura.Conta;
+import orientacaoaobjetosjava.bancoExAlura.Cliente;
 
 public class Programa {
 
